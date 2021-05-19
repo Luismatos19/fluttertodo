@@ -1,5 +1,6 @@
 import 'package:appflutter/home_page.dart';
 import 'package:appflutter/login.dart';
+import 'package:appflutter/todo_page.dart';
 import 'package:flutter/material.dart';
 
 import 'login.dart';
@@ -17,6 +18,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => Login(),
         '/home': (context) => MyHomePage(),
+        '/todo': (context) => TodoPage(),
       },
     );
   }
