@@ -46,12 +46,18 @@ class _LoginState extends State<Login> {
                         labelText: 'PassWord', border: OutlineInputBorder()),
                   ),
                   SizedBox(height: 15),
-                    ElevatedButton(
-                    onPressed: () {
-                      Navigator.of(context).pushReplacementNamed('/home');
-                    },
-                    child: Text('Entrar'),
-                  )
+                    SizedBox(
+                      width: 130,
+                      height:50,
+                      child: ElevatedButton.icon(
+                      icon: Icon(Icons.login, size: 22),
+                      onPressed: () {
+                        Navigator.of(context).pushReplacementNamed('/home');
+                      },
+                      label: Text('Entrar',
+                      style: TextStyle(fontSize:20) ),
+                  ),
+                    )
                 ],
               ),
             ));
