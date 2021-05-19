@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20210510T190000
+DTEND;TZID=America/Sao_Paulo:20210510T210000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=12;BYDAY=MO
+DTSTAMP:20210517T205848Z
+ORGANIZER;CN=bigopensourcesister@gmail.com:mailto:bigopensourcesister@gmail
+ .com
+UID:64s3mg2tihvof7med28lk4aoln@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=larissa.paim@gmail.com;X-NUM-GUESTS=0:mailto:larissa.paim@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=larissa.olive2020@gmail.com;X-NUM-GUESTS=0:mailto:larissa.olive2020
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=laurasoarestorressss@gmail.com;X-NUM-GUESTS=0:mailto:laurasoarestor
+ ressss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jessica.l.fileto@gmail.com;X-NUM-GUESTS=0:mailto:jessica.l.fileto@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=milenacacaudecarvalho@gmail.com;X-NUM-GUESTS=0:mailto:milenacacaude
+ carvalho@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=moretti.dafne@gmail.com;X-NUM-GUESTS=0:mailto:moretti.dafne@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=karinaomr@gmail.com;X-NUM-GUESTS=0:mailto:karinaomr@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alemesseder@gmail.com;X-NUM-GUESTS=0:mailto:alemesseder@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tiffanyrossi@gmail.com;X-NUM-GUESTS=0:mailto:tiffanyrossi@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mariaclara.mendes@gmail.com;X-NUM-GUESTS=0:mailto:mariaclara.mendes
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jc1982@gmail.com;X-NUM-GUESTS=0:mailto:jc1982@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=priscila.portela.c@gmail.com;X-NUM-GUESTS=0:mailto:priscila.portela
+ .c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=giliard.godoi@gmail.com;X-NUM-GUESTS=0:mailto:giliard.godoi@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=bruno.turis@gmail.com;X-NUM-GUESTS=0:mailto:bruno.turis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=luis.matos1992@gmail.com;X-NUM-GUESTS=0:mailto:luis.matos1992@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=cancellimarilia@gmail.com;X-NUM-GUESTS=0:mailto:cancellimarilia@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=biancasoliveira149@gmail.com;X-NUM-GUESTS=0:mailto:biancasoliveira1
+ 49@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=melissa.mvs@gmail.com;X-NUM-GUESTS=0:mailto:melissa.mvs@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=amanda.a.lentz@gmail.com;X-NUM-GUESTS=0:mailto:amanda.a.lentz@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=larissedepa@gmail.com;X-NUM-GUESTS=0:mailto:larissedepa@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=juniortorres.mtj@gmail.com;X-NUM-GUESTS=0:mailto:juniortorres.mtj@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rebeccah.wendhausen@gmail.com;X-NUM-GUESTS=0:mailto:rebeccah.wendha
+ usen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abdsm.eng20@uea.edu.br;X-NUM-GUESTS=0:mailto:abdsm.eng20@uea.edu.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=leonardomilov@gmail.com;X-NUM-GUESTS=0:mailto:leonardomilov@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=cz.carolzanoni@gmail.com;X-NUM-GUESTS=0:mailto:cz.carolzanoni@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=bifileto@gmail.com;X-NUM-GUESTS=0:mailto:bifileto@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=franccescolyem@gmail.com;X-NUM-GUESTS=0:mailto:franccescolyem@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=azzinogueira.marina@gmail.com;X-NUM-GUESTS=0:mailto:azzinogueira.ma
+ rina@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=annyrribeiro_@hotmail.com;X-NUM-GUESTS=0:mailto:annyrribeiro_@hotma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=carolinavillaresx@gmail.com;X-NUM-GUESTS=0:mailto:carolinavillaresx
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ramonmoises@gmail.com;X-NUM-GUESTS=0:mailto:ramonmoises@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lucaspereiralpm372@gmail.com;X-NUM-GUESTS=0:mailto:lucaspereiralpm3
+ 72@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=guilhermecunha.rui@gmail.com;X-NUM-GUESTS=0:mailto:guilhermecunha.r
+ ui@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=salguento@gmail.com;X-NUM-GUESTS=0:mailto:salguento@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gilmargomescdc@gmail.com;X-NUM-GUESTS=0:mailto:gilmargomescdc@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=karengiovnn@gmail.com;X-NUM-GUESTS=0:mailto:karengiovnn@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rvitall.alves@gmail.com;X-NUM-GUESTS=0:mailto:rvitall.alves@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=julianasouzamelo2@gmail.com;X-NUM-GUESTS=0:mailto:julianasouzamelo2
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=larissasdepa@gmail.com;X-NUM-GUESTS=0:mailto:larissasdepa@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lucasmingoni5@gmail.com;X-NUM-GUESTS=0:mailto:lucasmingoni5@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=guilherme.lionzo@gmail.com;X-NUM-GUESTS=0:mailto:guilherme.lionzo@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=uiarabianka87@gmail.com;X-NUM-GUESTS=0:mailto:uiarabianka87@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sarahdialmeida@gmail.com;X-NUM-GUESTS=0:mailto:sarahdialmeida@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=helena.sils@gmail.com;X-NUM-GUESTS=0:mailto:helena.sils@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mirelle.adefreitas@gmail.com;X-NUM-GUESTS=0:mailto:mirelle.adefreit
+ as@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=emillysantiago89@gmail.com;X-NUM-GUESTS=0:mailto:emillysantiago89@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=afportellada@gmail.com;X-NUM-GUESTS=0:mailto:afportellada@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ems.erikamedeiros@gmail.com;X-NUM-GUESTS=0:mailto:ems.erikamedeiros
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=felipe.moura10@gmail.com;X-NUM-GUESTS=0:mailto:felipe.moura10@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yukio.link@gmail.com;X-NUM-GUESTS=0:mailto:yukio.link@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=naah.nascimentto@gmail.com;X-NUM-GUESTS=0:mailto:naah.nascimentto@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=biancapatrocinio467@gmail.com;X-NUM-GUESTS=0:mailto:biancapatrocini
+ o467@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=froane@gmail.com;X-NUM-GUESTS=0:mailto:froane@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=auntduda@gmail.com;X-NUM-GUESTS=0:mailto:auntduda@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=douglas.martines08@gmail.com;X-NUM-GUESTS=0:mailto:douglas.martines
+ 08@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=bigopensourcesister@gmail.com;X-NUM-GUESTS=0:mailto:bigopensourcesister
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=villaresprogx@gmail.com;X-NUM-GUESTS=0:mailto:villaresprogx@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=brunareiscampos@hotmail.com;X-NUM-GUESTS=0:mailto:brunareiscampos@h
+ otmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=danielbarcelos.7@hotmail.com;X-NUM-GUESTS=0:mailto:danielbarcelos.7
+ @hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=danielle.arantes8@hotmail.com;X-NUM-GUESTS=0:mailto:danielle.arante
+ s8@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=marco.a.pontes@hotmail.com;X-NUM-GUESTS=0:mailto:marco.a.pontes@hot
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=contatogabrielav@hotmail.com;X-NUM-GUESTS=0:mailto:contatogabrielav
+ @hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=cassarola@protonmail.com;X-NUM-GUESTS=0:mailto:cassarola@protonmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nicollylira@live.com;X-NUM-GUESTS=0:mailto:nicollylira@live.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dejesusll@outlook.com;X-NUM-GUESTS=0:mailto:dejesusll@outlook.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=pedro.lucas.2012@hotmail.com;X-NUM-GUESTS=0:mailto:pedro.lucas.2012
+ @hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=thalita.ghetti@hotmail.com;X-NUM-GUESTS=0:mailto:thalita.ghetti@hot
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=andre_luiz.t@hotmail.com;X-NUM-GUESTS=0:mailto:andre_luiz.t@hotmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lua.luciana@yahoo.com.br;X-NUM-GUESTS=0:mailto:lua.luciana@yahoo.co
+ m.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=julio_schneider@hotmail.com;X-NUM-GUESTS=0:mailto:julio_schneider@h
+ otmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-5058351
+CREATED:20210517T205839Z
+DESCRIPTION:Olá\, Little siblings!<br><br>O nosso encontro dessa semana vai
+  ter o tema: GIT<br><br>Como habitual\, nosso encontro é na segunda\, às 19
+ :00. E vai acontecer no link:&nbsp\;<a href="https://www.youtube.com/watch?
+ v=U7ZeLESrLP0" id="ow539" __is_owner="true">https://www.youtube.com/watch?v
+ =U7ZeLESrLP0</a><br>Nesse encontro a Ludimila irá mostrar como funciona o g
+ it e pra que ele serve.<br><br><ul><li>Link da nossa apresentação:&nbsp\;<a
+  href="https://docs.google.com/presentation/d/1QQm-POuYQYDTgV4w6g2n7m4sivf2
+ n1hXSjrv2KgbU50/edit?usp=sharinghttp://google.com" id="ow552" __is_owner="t
+ rue">aqui</a>.</li></ul>Caso você não possa ir\, não esquece de conferir de
+ pois o conteúdo no nosso canal do youtube:&nbsp\;<a href="https://youtube.c
+ om/playlist?list=PLFFHHqnY3q2FXzmARf710jKQ_-IzRKK6D">aqui</a>.\n\n-::~:~::~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-\nPlease do not edit this section of the description.\n\nThis event has 
+ a video call.\nJoin: https://meet.google.com/gxi-onth-qgz\n\nView your even
+ t at https://calendar.google.com/calendar/event?action=VIEW&eid=NjRzM21nMnR
+ paHZvZjdtZWQyOGxrNGFvbG4gbHVpcy5tYXRvczE5OTJAbQ&tok=MjkjYmlnb3BlbnNvdXJjZXN
+ pc3RlckBnbWFpbC5jb21kODYwYmViYzgxNGI2OWVmYmY3Yzc5NmI1OTVmODFmOTI4YjI4NGQ0&c
+ tz=America%2FSao_Paulo&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210517T205845Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[ChatBOSS] Conteúdo da semana
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
