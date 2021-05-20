@@ -18,7 +18,9 @@ class _MyHomePageState extends State<MyHomePage> {
       right: 25,
       child: FloatingActionButton(
         foregroundColor: Colors.black,
-        onPressed: () {},
+        onPressed: () {
+          Navigator.of(context).pushNamed('/todo');
+        },
         child: Icon(Icons.add),
       ),
     );
@@ -53,23 +55,26 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text('Todo List'),
       ),
-      body: Container (
-        width: double.infinity,
-        child: Padding(
-          padding: EdgeInsets.all(10),
-          child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Task(
-              title: "New todo",
-              desc: " dfajiodsfj asdf disfnadsfadsfjidosnfijds dsfanidsfjads dafdsfiaofhaidosf adsfjdsjfads"
-            ),
-            Task(),
-          ]
-        ),
-        )
-        
-      ),
+      body: Container(
+          width: double.infinity,
+          child: Padding(
+            padding: EdgeInsets.all(10),
+            child: Stack(children: [
+              Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Expanded(
+                    child: ListView(
+                  children: [
+                    Task(
+                        title: "New todo",
+                        desc:
+                            " dfajiodsfj asdf disfnadsfadsfjidosnfijds dsfanidsfjads dafdsfiaofhaidosf adsfjdsjfads"),
+                    Task(),
+                  ],
+                ))
+              ]),
+              _button(),
+            ]),
+          )),
     );
   }
 }

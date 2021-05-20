@@ -1,8 +1,9 @@
-import 'package:appflutter/home_page.dart';
-import 'package:appflutter/login.dart';
+import 'package:appflutter/pages/home_page.dart';
+import 'package:appflutter/pages/login.dart';
+import 'package:appflutter/pages/todo_page.dart';
 import 'package:flutter/material.dart';
 
-import 'login.dart';
+import 'pages/login.dart';
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
@@ -17,6 +18,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => Login(),
         '/home': (context) => MyHomePage(),
+        '/todo': (context) => TodoPage(),
       },
     );
   }
