@@ -54,7 +54,7 @@ class TodoPage extends StatelessWidget {
             child: FloatingActionButton(
               foregroundColor: Colors.black,
               onPressed: () {
-                Navigator.of(context).pushNamed('/todo');
+                
               },
               child: Icon(Icons.check),
             ),
